@@ -17,10 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    if (ios8) {
-        [self setExtendedLayoutIncludesOpaqueBars:NO];
-        [self setEdgesForExtendedLayout:UIRectEdgeNone];
-    }
+    
+    [self setExtendedLayoutIncludesOpaqueBars:NO];
+    [self setEdgesForExtendedLayout:UIRectEdgeNone];
 }
 
 - (void)didReceiveMemoryWarning {
