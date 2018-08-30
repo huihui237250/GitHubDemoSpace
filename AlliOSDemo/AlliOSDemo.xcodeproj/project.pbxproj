@@ -17,6 +17,7 @@
 		A827CA262137E26B00A743D8 /* AlliOSDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA252137E26B00A743D8 /* AlliOSDemoTests.m */; };
 		A827CA312137E26B00A743D8 /* AlliOSDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA302137E26B00A743D8 /* AlliOSDemoUITests.m */; };
 		A827CA412137EA6000A743D8 /* Nutils.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA402137EA6000A743D8 /* Nutils.m */; };
+		A827CA452137FD7400A743D8 /* CustomAnimationIndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA442137FD7400A743D8 /* CustomAnimationIndexViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		A827CA322137E26B00A743D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A827CA3F2137EA6000A743D8 /* Nutils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Nutils.h; sourceTree = "<group>"; };
 		A827CA402137EA6000A743D8 /* Nutils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Nutils.m; sourceTree = "<group>"; };
+		A827CA432137FD7400A743D8 /* CustomAnimationIndexViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomAnimationIndexViewController.h; sourceTree = "<group>"; };
+		A827CA442137FD7400A743D8 /* CustomAnimationIndexViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomAnimationIndexViewController.m; sourceTree = "<group>"; };
 		DE52B5F0DFDFF40B2915A814 /* Pods_AlliOSDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AlliOSDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -128,6 +131,7 @@
 		A827CA0B2137E26A00A743D8 /* AlliOSDemo */ = {
 			isa = PBXGroup;
 			children = (
+				A827CA422137FD3F00A743D8 /* CustomAnimation */,
 				A827CA3E2137E9E100A743D8 /* Common */,
 				A827CA0C2137E26B00A743D8 /* AppDelegate.h */,
 				A827CA0D2137E26B00A743D8 /* AppDelegate.m */,
@@ -167,6 +171,15 @@
 				A827CA402137EA6000A743D8 /* Nutils.m */,
 			);
 			path = Common;
+			sourceTree = "<group>";
+		};
+		A827CA422137FD3F00A743D8 /* CustomAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				A827CA432137FD7400A743D8 /* CustomAnimationIndexViewController.h */,
+				A827CA442137FD7400A743D8 /* CustomAnimationIndexViewController.m */,
+			);
+			path = CustomAnimation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -309,11 +322,13 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-AlliOSDemo/Pods-AlliOSDemo-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
 				"${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Masonry.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -345,6 +360,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A827CA452137FD7400A743D8 /* CustomAnimationIndexViewController.m in Sources */,
 				A827CA112137E26B00A743D8 /* ViewController.m in Sources */,
 				A827CA1C2137E26B00A743D8 /* main.m in Sources */,
 				A827CA412137EA6000A743D8 /* Nutils.m in Sources */,

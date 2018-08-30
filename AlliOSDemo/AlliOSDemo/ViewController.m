@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "Nutils.h"
+#import "CustomAnimationIndexViewController.h"
 
 @interface ViewController () <UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic,strong) UITableView *tableView;
@@ -82,6 +83,19 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
+    
+    DemoType demoType = [self.contentArray[indexPath.section][indexPath.row] integerValue];
+    switch (demoType) {
+        case DemoType_Animation:
+        {
+            CustomAnimationIndexViewController *animationVC = [[CustomAnimationIndexViewController alloc] init];
+            [self.navigationController pushViewController:animationVC animated:YES];
+        }
+            break;
+            
+        default:
+            break;
+    }
 }
 
 

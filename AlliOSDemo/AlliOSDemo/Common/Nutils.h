@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <Masonry/Masonry.h>
+#import <SDWebImage/UIImageView+WebCache.h>
 
 typedef NS_ENUM (NSInteger, DemoType){
     DemoType_Animation = 0,         //动画
