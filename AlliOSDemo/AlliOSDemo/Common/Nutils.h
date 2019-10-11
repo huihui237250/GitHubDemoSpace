@@ -9,11 +9,15 @@
 #import <Foundation/Foundation.h>
 #import <Masonry/Masonry.h>
 #import <SDWebImage/UIImageView+WebCache.h>
+#import <ReactiveObjC/ReactiveObjC.h>
 
 typedef NS_ENUM (NSInteger, DemoType){
     DemoType_Animation = 0,         //动画
+    DemoType_RAC,   //RAC测试
 };
 
 @interface Nutils : NSObject
+
++ (NSString *)getDemoTypeName:(DemoType)demoType;
 
 @end

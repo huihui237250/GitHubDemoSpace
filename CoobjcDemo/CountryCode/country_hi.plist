@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>हंगरी</key>
+<string>36</string>
+<key>विएतनाम</key>
+<string>84</string>
+<key>बुरुंडी</key>
+<string>257</string>
+<key>अंडोरा</key>
+<string>376</string>
+<key>गिनी</key>
+<string>224</string>
+<key>पिटकैर्न द्वीपसमूह</key>
+<string>870</string>
+<key>टोगो</key>
+<string>228</string>
+<key>एरिट्रेया</key>
+<string>291</string>
+<key>जांबिया</key>
+<string>260</string>
+<key>चीन</key>
+<string>86</string>
+<key>सीरिया</key>
+<string>963</string>
+<key>मंगोलिया</key>
+<string>976</string>
+<key>थाईलैंड</key>
+<string>66</string>
+<key>भारत</key>
+<string>91</string>
+<key>नीदरलैंड्स</key>
+<string>31</string>
+<key>फाकलैंड द्वीप समूह (मालविनास)</key>
+<string>500</string>
+<key>सूडान</key>
+<string>249</string>
+<key>निकारागुआ</key>
+<string>505</string>
+<key>पापुआ न्यू गिनी</key>
+<string>675</string>
+<key>तंजानिया</key>
+<string>255</string>
+<key>अल्जीरिया</key>
+<string>213</string>
+<key>ग्रेनेडा</key>
+<string>1473</string>
+<key>वेनेजुएला</key>
+<string>58</string>
+<key>तुर्की</key>
+<string>90</string>
+<key>जापान</key>
+<string>81</string>
+<key>सर्बिया</key>
+<string>381</string>
+<key>मोनाको</key>
+<string>377</string>
+<key>फिनलैंड</key>
+<string>358</string>
+<key>लिथुआनिया</key>
+<string>370</string>
+<key>पराग्वे</key>
+<string>595</string>
+<key>सूरीनाम</key>
+<string>597</string>
+<key>डोमिनिक</key>
+<string>1767</string>
+<key>मॉरितानिया</key>
+<string>222</string>
+<key>अर्मेनिया</key>
+<string>374</string>
+<key>पनामा</key>
+<string>507</string>
+<key>अजरबेजान</key>
+<string>994</string>
+<key>गैबोन</key>
+<string>241</string>
+<key>मकाओ</key>
+<string>853</string>
+<key>मकदूनिया</key>
+<string>389</string>
+<key>टोंगा</key>
+<string>676</string>
+<key>भूटान</key>
+<string>975</string>
+<key>लेबनान</key>
+<string>961</string>
+<key>पेरू</key>
+<string>51</string>
+<key>आइसल ऑफ मैन</key>
+<string>441624</string>
+<key>लाइबेरिया</key>
+<string>231</string>
+<key>ओमान</key>
+<string>968</string>
+<key>इथियोपिया</key>
+<string>251</string>
+<key>वनातू</key>
+<string>678</string>
+<key>रोमानिया</key>
+<string>40</string>
+<key>नेपाल</key>
+<string>977</string>
+<key>नॉर्वे</key>
+<string>47</string>
+<key>नाइजर</key>
+<string>227</string>
+<key>तुर्कमेनिस्तान</key>
+<string>993</string>
+<key>जर्मनी</key>
+<string>49</string>
+<key>पूर्वी तिमोर</key>
+<string>670</string>
+<key>अरुबा</key>
+<string>297</string>
+<key>कोमोरोस</key>
+<string>269</string>
+<key>फ्रैंच गुआना</key>
+<string>689</string>
+<key>बेल्जियम</key>
+<string>32</string>
+<key>सोमालिया</key>
+<string>252</string>
+<key>अल्बानिया</key>
+<string>355</string>
+<key>अंग्विला</key>
+<string>1264</string>
+<key>बोत्सवाना</key>
+<string>267</string>
+<key>फराओ द्वीप समूह</key>
+<string>298</string>
+<key>क्यूबा</key>
+<string>53</string>
+<key>गुआना</key>
+<string>592</string>
+<key>नाउरू</key>
+<string>674</string>
+<key>उत्तर कोरिया</key>
+<string>850</string>
+<key>सल्वाडोर</key>
+<string>503</string>
+<key>होंडुरास</key>
+<string>504</string>
+<key>एक्वेटोरियल गिनी</key>
+<string>240</string>
+<key>ताइवान</key>
+<string>886</string>
+<key>चिली</key>
+<string>56</string>
+<key>उजबेकिस्तान</key>
+<string>998</string>
+<key>अर्जेंटिना</key>
+<string>54</string>
+<key>लिक्टेनिस्टीन</key>
+<string>423</string>
+<key>लीबिया</key>
+<string>218</string>
+<key>कोस्टा रिका</key>
+<string>506</string>
+<key>कनाडा</key>
+<string>1</string>
+<key>इटली</key>
+<string>39</string>
+<key>ग्वाम</key>
+<string>1671</string>
+<key>मेक्सिको</key>
+<string>52</string>
+<key>क़तार</key>
+<string>974</string>
+<key>मलयेशिया</key>
+<string>60</string>
+<key>कैमरून</key>
+<string>237</string>
+<key>स्लोवाकिया</key>
+<string>421</string>
+<key>इजराइल</key>
+<string>972</string>
+<key>ईरान</key>
+<string>98</string>
+<key>साइप्रस</key>
+<string>357</string>
+<key>माइक्रोनेशिया</key>
+<string>691</string>
+<key>पोलैंड</key>
+<string>48</string>
+<key>मालदीव</key>
+<string>960</string>
+<key>पुएर्तो रिको</key>
+<string>1939</string>
+<key>सैन मारिनो</key>
+<string>378</string>
+<key>नाइजीरिया</key>
+<string>234</string>
+<key>बेलारुस</key>
+<string>375</string>
+<key>पलाउ</key>
+<string>680</string>
+<key>बांग्लादेश</key>
+<string>880</string>
+<key>उरुग्वे</key>
+<string>598</string>
+<key>रूस</key>
+<string>7</string>
+<key>जिब्राल्टर</key>
+<string>350</string>
+<key>आयरलैंड</key>
+<string>353</string>
+<key>बर्मूडा</key>
+<string>1441</string>
+<key>क्रोएशिया</key>
+<string>385</string>
+<key>ब्राजील</key>
+<string>55</string>
+<key>बार्बाडोस</key>
+<string>1246</string>
+<key>कोलंबिया</key>
+<string>57</string>
+<key>म्यामांर (बर्मा)</key>
+<string>95</string>
+<key>बोलिविया</key>
+<string>591</string>
+<key>बहामास</key>
+<string>1242</string>
+<key>पाकिस्तान</key>
+<string>92</string>
+<key>पुर्तगाल</key>
+<string>351</string>
+<key>माली</key>
+<string>223</string>
+<key>कुक द्वीप</key>
+<string>682</string>
+<key>घाना</key>
+<string>233</string>
+<key>मोलदोवा</key>
+<string>373</string>
+<key>श्री लंका</key>
+<string>94</string>
+<key>इराक</key>
+<string>964</string>
+<key>कांगो</key>
+<string>242</string>
+<key>बुर्किना फासो</key>
+<string>226</string>
+<key>कुवैत</key>
+<string>965</string>
+<key>पुएर्तो रिको</key>
+<string>1787</string>
+<key>हांग कांग</key>
+<string>852</string>
+<key>दक्षिण अफ्रीका</key>
+<string>27</string>
+<key>केप वर्दे</key>
+<string>238</string>
+<key>जांबिया</key>
+<string>220</string>
+<key>लात्विया</key>
+<string>371</string>
+<key>फिजी</key>
+<string>679</string>
+<key>मार्टिनिक</key>
+<string>596</string>
+<key>आइसलैंड</key>
+<string>354</string>
+<key>ब्रितानी वर्जिन द्वीपसमूह</key>
+<string>1284</string>
+<key>चेक</key>
+<string>420</string>
+<key>सिंगापुर</key>
+<string>65</string>
+<key>स्विट्जरलैंड</key>
+<string>41</string>
+<key>आस्ट्रिया</key>
+<string>43</string>
+<key>नामीबिया</key>
+<string>264</string>
+<key>मारीशस</key>
+<string>230</string>
+<key>बानिन</key>
+<string>229</string>
+<key>टोकेलू</key>
+<string>690</string>
+<key>अफगानिस्तान</key>
+<string>93</string>
+<key>स्वाजीलैंड</key>
+<string>268</string>
+<key>बहरीन</key>
+<string>973</string>
+<key>गिनी-बिसाउ</key>
+<string>245</string>
+<key>यूएसए (संयुक्त राज्य अमेरिका)</key>
+<string>1</string>
+<key>चाड</key>
+<string>235</string>
+<key>ब्रुनेई</key>
+<string>673</string>
+<key>अंगोला</key>
+<string>244</string>
+<key>संयुक्त अरब अमीरात</key>
+<string>971</string>
+<key>कज़ाखिस्तान</key>
+<string>7</string>
+<key>स्पेन</key>
+<string>34</string>
+<key>ग्वाटेमाला</key>
+<string>502</string>
+<key>उक्रेन</key>
+<string>380</string>
+<key>फिलीपींस</key>
+<string>63</string>
+<key>जिबॉती</key>
+<string>253</string>
+<key>जमैका</key>
+<string>1876</string>
+<key>स्लोवानिया</key>
+<string>386</string>
+<key>सोलोमन द्वीपसमूह</key>
+<string>677</string>
+<key>लक्जमबर्ग</key>
+<string>352</string>
+<key>तुवालू</key>
+<string>688</string>
+<key>साओ टॉम एंड प्रिंसिपी</key>
+<string>239</string>
+<key>सेनेगल</key>
+<string>221</string>
+<key>सेंट विंसेंट एंड द ग्रेनेंडाइन्स</key>
+<string>1784</string>
+<key>एस्तोनिया</key>
+<string>372</string>
+<key>सेशेल्स</key>
+<string>248</string>
+<key>सऊदी अरब</key>
+<string>966</string>
+<key>ट्रिनिडाड एंड टोबैगो</key>
+<string>1868</string>
+<key>मोरक्को</key>
+<string>212</string>
+<key>यूनान</key>
+<string>30</string>
+<key>एंटीगुआ और बारबूडा</key>
+<string>1268</string>
+<key>जॉर्जिया</key>
+<string>995</string>
+<key>केन्या</key>
+<string>254</string>
+<key>ट्यूनीशिया</key>
+<string>216</string>
+<key>माल्टा</key>
+<string>356</string>
+<key>तज़ाकिस्तान</key>
+<string>992</string>
+<key>लाओस</key>
+<string>856</string>
+<key>इक्वाडोर</key>
+<string>593</string>
+<key>यमन</key>
+<string>967</string>
+<key>बेलिजे</key>
+<string>501</string>
+<key>मालावी</key>
+<string>265</string>
+<key>स्वीडन</key>
+<string>46</string>
+<key>ग्रीनलैंड</key>
+<string>299</string>
+<key>जॉर्डन</key>
+<string>962</string>
+<key>मार्शल द्वीपसमूह</key>
+<string>692</string>
+<key>जिंबावे</key>
+<string>263</string>
+<key>फ्रांस</key>
+<string>33</string>
+<key>मोजांबिक</key>
+<string>258</string>
+<key>मिस्र</key>
+<string>20</string>
+<key>ग्रेट ब्रिटेन</key>
+<string>44</string>
+<key>लेसोथो</key>
+<string>266</string>
+<key>आस्ट्रेलिया</key>
+<string>61</string>
+<key>उगांडा</key>
+<string>256</string>
+<key>डैनमार्क</key>
+<string>45</string>
+<key>किर्जिस्तान</key>
+<string>996</string>
+<key>सेंट्रल अफ्रीका गणतंत्र</key>
+<string>236</string>
+<key>सियारा लिओन</key>
+<string>232</string>
+<key>मोंटेनेग्रो</key>
+<string>382</string>
+<key>किरिबिती</key>
+<string>686</string>
+<key>इंडोनेशिया</key>
+<string>62</string>
+<key>मैडागास्कर</key>
+<string>261</string>
+<key>रवांडा</key>
+<string>250</string>
+<key>हैती</key>
+<string>509</string>
+<key>बल्गारिया</key>
+<string>359</string>
+<key>कोटे डी आइवर गणराज्य</key>
+<string>225</string>
+<key>बोस्निया और हर्जेगोविना</key>
+<string>387</string>
+<key>सेंट पियरे और मिकेलॉन</key>
+<string>508</string>
+<key>पश्चिमी समोआ</key>
+<string>685</string>
+<key>न्यू कैलेडोनिया द्वीप</key>
+<string>687</string>
+<key>फ्रेंच गयाना</key>
+<string>594</string>
+<key>मारियाना द्वीप</key>
+<string>1670</string>
+<key>तुर्क्स और कैकोज़ द्वीपसमूह</key>
+<string>1649</string>
+<key>वेटिकन</key>
+<string>379</string>
+<key>संत बारथेलेमी</key>
+<string>590</string>
+<key>पुनर्मिलन</key>
+<string>262</string>
+<key>कोसोवो</key>
+<string>383</string>
+<key>अमेरिकन समोआ</key>
+<string>1684</string>
+<key>दक्षिण कोरिया</key>
+<string>82</string>
+<key>केमैन आइसलैंड</key>
+<string>1345</string>
+<key>ऑस्ट्रेलिया प्रवासी क्षेत्र</key>
+<string>672</string>
+<key>उदगम द्वीप</key>
+<string>247</string>
+<key>डोमिनिक गणतंत्र</key>
+<string>1809</string>
+<key>सिंट मार्टेन</key>
+<string>1599</string>
+<key>डोमिनिक गणतंत्र</key>
+<string>1829</string>
+<key>डोमिनिक गणतंत्र</key>
+<string>1849</string>
+<key>डेमोक्रेटिक रिपब्लिक ऑफ कांगो</key>
+<string>243</string>
+<key>कंबोडिया</key>
+<string>855</string>
+<key>अमेरिकी वर्जिन द्वीपसमूह</key>
+<string>1340</string>
+<key>नियू</key>
+<string>683</string>
+<key>न्यूजीलैंड</key>
+<string>64</string>
+<key>सेंट लूसिया</key>
+<string>1758</string>
+<key>डिएगो गार्सिया</key>
+<string>246</string>
+<key>मोंटसेराट</key>
+<string>1664</string>
+<key>संत हेलेना</key>
+<string>290</string>
+<key>वाली और फ़्युटुना</key>
+<string>681</string>
+<key>संत किट्ट्स और नेविस</key>
+<string>1869</string>
+<key>नीदरलैंड्स एंटाइल्स</key>
+<string>599</string>
+</dict>
+</plist>

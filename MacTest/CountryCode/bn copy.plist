@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Côte d'Ivoire</key>
+	<string>225</string>
+	<key>অস্ট্রিয়া</key>
+	<string>43</string>
+	<key>অস্ট্রেলিয়া</key>
+	<string>61</string>
+	<key>অ্যাঙ্গুইলা</key>
+	<string>1264</string>
+	<key>অ্যাঙ্গোলা</key>
+	<string>244</string>
+	<key>অ্যান্টিগুয়া</key>
+	<string>1268</string>
+	<key>অ্যান্ডোরা</key>
+	<string>376</string>
+	<key>আইসল্যান্ড</key>
+	<string>354</string>
+	<key>আজারবাইজান</key>
+	<string>994</string>
+	<key>আফগানিস্থান</key>
+	<string>93</string>
+	<key>আরমেনিয়া</key>
+	<string>374</string>
+	<key>আরুবা</key>
+	<string>297</string>
+	<key>আর্জেন্টিনা</key>
+	<string>54</string>
+	<key>আলজেরিয়া</key>
+	<string>213</string>
+	<key>আলবেনিয়া</key>
+	<string>355</string>
+	<key>আয়ারল্যান্ড</key>
+	<string>353</string>
+	<key>ইউক্রেন</key>
+	<string>380</string>
+	<key>ইকুয়েডর</key>
+	<string>593</string>
+	<key>ইতালি</key>
+	<string>39</string>
+	<key>ইথিওপিয়া</key>
+	<string>251</string>
+	<key>ইন্দোনেশিয়া</key>
+	<string>62</string>
+	<key>ইরাক</key>
+	<string>964</string>
+	<key>ইরিত্রিয়া</key>
+	<string>291</string>
+	<key>ইসরায়েল</key>
+	<string>972</string>
+	<key>ইয়েমেন</key>
+	<string>967</string>
+	<key>উগান্ডা</key>
+	<string>256</string>
+	<key>উজবেকিস্তান</key>
+	<string>998</string>
+	<key>উরুগুয়ে</key>
+	<string>598</string>
+	<key>এল সালভাদোর</key>
+	<string>503</string>
+	<key>এস্তোনিয়া</key>
+	<string>372</string>
+	<key>ওমান</key>
+	<string>968</string>
+	<key>ওয়ালিস এবং ফুটুনা</key>
+	<string>681</string>
+	<key>কঙ্গো প্রজাতন্ত্র</key>
+	<string>242</string>
+	<key>কমোরস</key>
+	<string>269</string>
+	<key>কলোম্বিয়া</key>
+	<string>57</string>
+	<key>কাজাখস্তান</key>
+	<string>7</string>
+	<key>কাতার</key>
+	<string>974</string>
+	<key>কানাডা</key>
+	<string>1</string>
+	<key>কিউবা</key>
+	<string>53</string>
+	<key>কিরগিজস্তান</key>
+	<string>996</string>
+	<key>কিরিবাতি</key>
+	<string>686</string>
+	<key>কুয়েত</key>
+	<string>965</string>
+	<key>কেনিয়া</key>
+	<string>254</string>
+	<key>কোস্টা রিকা</key>
+	<string>506</string>
+	<key>ক্যামেরুন</key>
+	<string>237</string>
+	<key>ক্রোয়েশিয়া</key>
+	<string>385</string>
+	<key>গাম্বিয়া</key>
+	<string>220</string>
+	<key>গায়ানা</key>
+	<string>592</string>
+	<key>গিনি</key>
+	<string>224</string>
+	<key>গুয়াতেমালা</key>
+	<string>502</string>
+	<key>গুয়াম</key>
+	<string>1671</string>
+	<key>গ্যাবন</key>
+	<string>241</string>
+	<key>গ্রানাডা</key>
+	<string>1473</string>
+	<key>গ্রীনল্যান্ড</key>
+	<string>299</string>
+	<key>গ্রীস</key>
+	<string>30</string>
+	<key>ঘানা</key>
+	<string>233</string>
+	<key>চাদ</key>
+	<string>235</string>
+	<key>চিলি</key>
+	<string>56</string>
+	<key>চীন</key>
+	<string>86</string>
+	<key>জর্জিয়া</key>
+	<string>995</string>
+	<key>জর্ডন</key>
+	<string>962</string>
+	<key>জাপান</key>
+	<string>81</string>
+	<key>জাম্বিয়া</key>
+	<string>260</string>
+	<key>জার্মানি</key>
+	<string>49</string>
+	<key>জিবুতি</key>
+	<string>253</string>
+	<key>জিব্রাল্টার</key>
+	<string>350</string>
+	<key>জিম্বাবোয়ে</key>
+	<string>263</string>
+	<key>জ্যামাইকা</key>
+	<string>1876</string>
+	<key>টুভালু</key>
+	<string>688</string>
+	<key>টোংগা</key>
+	<string>676</string>
+	<key>টোগো</key>
+	<string>228</string>
+	<key>ডেনমার্ক</key>
+	<string>45</string>
+	<key>ডোমিনিকা</key>
+	<string>1767</string>
+	<key>তিউনিসিয়া</key>
+	<string>216</string>
+	<key>তুরস্ক</key>
+	<string>90</string>
+	<key>তুর্কী এবং কাইকোস দ্বীপপূঞ্জ</key>
+	<string>1649</string>
+	<key>তুর্কেমেনিস্তান</key>
+	<string>993</string>
+	<key>তোকেলাও</key>
+	<string>690</string>
+	<key>ত্রিনিদাদ ও টোবাগো</key>
+	<string>1868</string>
+	<key>থাইল্যান্ড</key>
+	<string>66</string>
+	<key>দক্ষিণ আফ্রিকা</key>
+	<string>27</string>
+	<key>দক্ষিণ সুদান</key>
+	<string>211</string>
+	<key>নরওয়ে</key>
+	<string>47</string>
+	<key>নাইজার</key>
+	<string>227</string>
+	<key>নাইজেরিয়া</key>
+	<string>234</string>
+	<key>নাউরু</key>
+	<string>674</string>
+	<key>নামিবিয়া</key>
+	<string>264</string>
+	<key>নিকারাগুয়া</key>
+	<string>505</string>
+	<key>নিরক্ষীয় গিনি</key>
+	<string>240</string>
+	<key>নেদারল্যান্ড</key>
+	<string>31</string>
+	<key>নেপাল</key>
+	<string>977</string>
+	<key>পর্তুগাল</key>
+	<string>351</string>
+	<key>পাকিস্তান</key>
+	<string>92</string>
+	<key>পানামা</key>
+	<string>507</string>
+	<key>পালাউ</key>
+	<string>680</string>
+	<key>পুয়ের্তো রিকো</key>
+	<string>1787</string>
+	<key>পেরু</key>
+	<string>51</string>
+	<key>পোল্যান্ড</key>
+	<string>48</string>
+	<key>প্যারাগুয়ে</key>
+	<string>595</string>
+	<key>ফারো দ্বীপপুঞ্জ</key>
+	<string>298</string>
+	<key>ফিজি</key>
+	<string>679</string>
+	<key>ফিনল্যান্ড</key>
+	<string>358</string>
+	<key>ফিলিপাইন</key>
+	<string>63</string>
+	<key>ফ্রান্স</key>
+	<string>33</string>
+	<key>ফ্রেঞ্চ পলিনেশিয়া</key>
+	<string>689</string>
+	<key>বতসোয়ানা</key>
+	<string>267</string>
+	<key>বসনিয়া ও হার্জেগোভিনা</key>
+	<string>387</string>
+	<key>বাংলাদেশ</key>
+	<string>880</string>
+	<key>বারবাডোস</key>
+	<string>1246</string>
+	<key>বাহরাইন</key>
+	<string>973</string>
+	<key>বাহামা</key>
+	<string>1242</string>
+	<key>বুরুন্ডি</key>
+	<string>257</string>
+	<key>বুলগেরিয়া</key>
+	<string>359</string>
+	<key>বেনিন</key>
+	<string>229</string>
+	<key>বেলজিয়াম</key>
+	<string>32</string>
+	<key>বেলারুশ</key>
+	<string>375</string>
+	<key>বেলিজ</key>
+	<string>501</string>
+	<key>ব্রাজিল</key>
+	<string>55</string>
+	<key>ভানুয়াতু</key>
+	<string>678</string>
+	<key>ভারত</key>
+	<string>91</string>
+	<key>ভূটান</key>
+	<string>975</string>
+	<key>মঙ্গোলিয়া</key>
+	<string>976</string>
+	<key>মন্টেনিগ্রো</key>
+	<string>382</string>
+	<key>মরক্কো</key>
+	<string>212</string>
+	<key>মরিশাস</key>
+	<string>230</string>
+	<key>মাদাগাস্কার</key>
+	<string>261</string>
+	<key>মার্টিনিক</key>
+	<string>596</string>
+	<key>মালদ্বীপ</key>
+	<string>960</string>
+	<key>মালাউই</key>
+	<string>265</string>
+	<key>মালি</key>
+	<string>223</string>
+	<key>মাল্টা</key>
+	<string>356</string>
+	<key>মালয়েশিয়া</key>
+	<string>60</string>
+	<key>মিশর</key>
+	<string>20</string>
+	<key>মেক্সিকো</key>
+	<string>52</string>
+	<key>মোজাম্বিক</key>
+	<string>258</string>
+	<key>মোনাকো</key>
+	<string>377</string>
+	<key>মৌরিতানিয়া</key>
+	<string>222</string>
+	<key>ম্যাকাউ</key>
+	<string>853</string>
+	<key>রায়ান্ডা</key>
+	<string>250</string>
+	<key>রোমানিয়া</key>
+	<string>40</string>
+	<key>লাইবেরিয়া</key>
+	<string>231</string>
+	<key>লাটভিয়া</key>
+	<string>371</string>
+	<key>লিচেনস্টাইন</key>
+	<string>423</string>
+	<key>লিথুয়ানিয়া</key>
+	<string>370</string>
+	<key>লিবিয়া</key>
+	<string>218</string>
+	<key>লুক্সেমবার্গ</key>
+	<string>352</string>
+	<key>লেবানন</key>
+	<string>961</string>
+	<key>লেসোথো</key>
+	<string>266</string>
+	<key>শ্রীলঙ্কা</key>
+	<string>94</string>
+	<key>সংযুক্ত আরব আমিরাত</key>
+	<string>971</string>
+	<key>সাইপ্রাস</key>
+	<string>357</string>
+	<key>সাওতোম ও প্রিন্সিপ</key>
+	<string>239</string>
+	<key>সান ম্যারিনো</key>
+	<string>378</string>
+	<key>সার্বিয়া</key>
+	<string>381</string>
+	<key>সিঙ্গাপুর</key>
+	<string>65</string>
+	<key>সিসিলি</key>
+	<string>248</string>
+	<key>সিয়েরা লিওন</key>
+	<string>232</string>
+	<key>সুইজারল্যান্ড</key>
+	<string>41</string>
+	<key>সুইডেন</key>
+	<string>46</string>
+	<key>সুদান</key>
+	<string>249</string>
+	<key>সুরিনাম</key>
+	<string>597</string>
+	<key>সেনেগাল</key>
+	<string>221</string>
+	<key>সেন্ট কিটস এবং নেভিস</key>
+	<string>1869</string>
+	<key>সেন্ট পিয়ের ও মিকেলন</key>
+	<string>508</string>
+	<key>সেন্ট লুসিয়া</key>
+	<string>1758</string>
+	<key>সেন্ট্রাল আফ্রিকান রিপাবলিক</key>
+	<string>236</string>
+	<key>সোমালিয়া</key>
+	<string>252</string>
+	<key>সৌদি আরব</key>
+	<string>966</string>
+	<key>স্পেন</key>
+	<string>34</string>
+	<key>স্লোভাকিয়া</key>
+	<string>421</string>
+	<key>স্লোভেনিয়া</key>
+	<string>386</string>
+	<key>হন্ডুরাস</key>
+	<string>504</string>
+	<key>হাইতি</key>
+	<string>509</string>
+	<key>হাঙ্গেরি</key>
+	<string>36</string>
+	<key>অ্যাসাশন দ্বীপ</key>
+	<string>247</string>
+	<key>নরফোক দ্বীপ</key>
+	<string>672</string>
+	<key>বারমুডা</key>
+	<string>1441</string>
+	<key>বলিভিয়া</key>
+	<string>591</string>
+	<key>ব্রিটিশ ভার্জিন দ্বীপপুঞ্জ</key>
+	<string>1284</string>
+	<key>ব্রুনেই</key>
+	<string>673</string>
+	<key>বুর্কিনা ফাসো</key>
+	<string>226</string>
+	<key>মায়ানমার</key>
+	<string>95</string>
+	<key>কেপ ভার্দে</key>
+	<string>238</string>
+	<key>কেইম্যান আইল্যান্ড</key>
+	<string>1345</string>
+	<key>গণতান্ত্রিক প্রজাতন্ত্র কঙ্গো</key>
+	<string>243</string>
+	<key>কুক দ্বীপপুঞ্জ</key>
+	<string>682</string>
+	<key>চেক প্রজাতন্ত্র</key>
+	<string>420</string>
+	<key>ব্রিটিশ-ভারতীয় সমুদ্র এলাকা</key>
+	<string>246</string>
+	<key>ডোমিনিকান প্রজাতন্ত্র</key>
+	<string>1809</string>
+	<key>ডোমিনিকান প্রজাতন্ত্র</key>
+	<string>1829</string>
+	<key>ডোমিনিকান প্রজাতন্ত্র</key>
+	<string>1849</string>
+	<key>ফকল্যান্ড দ্বীপপুঞ্জ</key>
+	<string>500</string>
+	<key>গিনি-বিসাউ</key>
+	<string>245</string>
+	<key>ফ্রেঞ্চ গায়ানা</key>
+	<string>594</string>
+	<key>হংকং</key>
+	<string>852</string>
+	<key>ইরান</key>
+	<string>98</string>
+	<key>আইল অভ ম্যান</key>
+	<string>441624</string>
+	<key>কম্বোডিয়া</key>
+	<string>855</string>
+	<key>কসোভো</key>
+	<string>383</string>
+	<key>লাওস</key>
+	<string>856</string>
+	<key>মেসিডোনিয়া</key>
+	<string>389</string>
+	<key>নর্থান মেরিয়ানা দ্বীপপুঞ্জ</key>
+	<string>1670</string>
+	<key>মার্শাল দ্বীপপুঞ্জ</key>
+	<string>692</string>
+	<key>মাইক্রোনেশিয়ার জোটবদ্ধ রাষ্ট্র</key>
+	<string>691</string>
+	<key>মলদোভা</key>
+	<string>373</string>
+	<key>মন্টসেরাত</key>
+	<string>1664</string>
+	<key>নেদারল্যান্ডস এন্টিলস</key>
+	<string>599</string>
+	<key>নিউ ক্যালেডোনিয়া</key>
+	<string>687</string>
+	<key>নিউজিল্যান্ড / Pitcairn দ্বীপপুঞ্জ</key>
+	<string>64</string>
+	<key>নিউই</key>
+	<string>683</string>
+	<key>উত্তর কোরিয়া</key>
+	<string>850</string>
+	<key>প্যালেস্তাইন</key>
+	<string>970</string>
+	<key>পাপুয়া নিউগিনি</key>
+	<string>675</string>
+	<key>Inmarsat</key>
+	<string>870</string>
+	<key>পুয়ের্তো রিকো</key>
+	<string>1939</string>
+	<key>পুয়ের্তো রিকো</key>
+	<string>1787</string>
+	<key>পুনর্মিলনী</key>
+	<string>262</string>
+	<key>রাশিয়া</key>
+	<string>7</string>
+	<key>গুয়াডেলোপ</key>
+	<string>590</string>
+	<key>সেইন্ট হেলেনা</key>
+	<string>290</string>
+	<key>সেইন্ট মার্টিন</key>
+	<string>1721</string>
+	<key>সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ</key>
+	<string>1784</string>
+	<key>আমেরিকান সামোয়া</key>
+	<string>1684</string>
+	<key>সামোয়া</key>
+	<string>685</string>
+	<key>সলোমন দ্বীপপুঞ্জ</key>
+	<string>677</string>
+	<key>দক্ষিণ কোরিয়া</key>
+	<string>82</string>
+	<key>সোয়াজিল্যান্ড</key>
+	<string>268</string>
+	<key>সিরিয়া</key>
+	<string>963</string>
+	<key>তাইওয়ান</key>
+	<string>886</string>
+	<key>তাজিকিস্তান</key>
+	<string>992</string>
+	<key>তানজানিয়া</key>
+	<string>255</string>
+	<key>পূর্ব তিমুর</key>
+	<string>670</string>
+	<key>মার্কিন ভার্জিন দ্বীপপুঞ্জ</key>
+	<string>1340</string>
+	<key>যুক্তরাজ্য</key>
+	<string>44</string>
+	<key>মার্কিন যুক্তরাষ্ট্র</key>
+	<string>1</string>
+	<key>পোপের শাসন</key>
+	<string>379</string>
+	<key>ভেনিজ়ুয়েলা</key>
+	<string>58</string>
+	<key>ভিয়েতনাম</key>
+	<string>84</string>
+</dict>
+</plist>

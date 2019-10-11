@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "Nutils.h"
 #import "CustomAnimationIndexViewController.h"
+#import "RACTestViewController.h"
 
 @interface ViewController () <UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic,strong) UITableView *tableView;
@@ -35,7 +36,7 @@
 - (NSArray *)contentArray{
     if (!_contentArray) {
         _contentArray = @[
-                          @[[NSNumber numberWithInteger:DemoType_Animation]]
+                          @[[NSNumber numberWithInteger:DemoType_Animation], [NSNumber numberWithInteger:DemoType_RAC]]
                           
                           ];
     }
@@ -44,19 +45,6 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-}
-
-- (NSString *)getDemoTypeName:(DemoType)demoType{
-    NSString *demoTypeStr = nil;
-    switch (demoType) {
-        case DemoType_Animation:
-            demoTypeStr = @"Custom Animation";
-            break;
-            
-        default:
-            break;
-    }
-    return demoTypeStr;
 }
 
 #pragma mark - UITableViewDataSource,UITableViewDelegate
@@ -77,7 +65,7 @@
         cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
     }
     DemoType demoType = [self.contentArray[indexPath.section][indexPath.row] integerValue];
-    cell.textLabel.text = [self getDemoTypeName:demoType];
+    cell.textLabel.text = [Nutils getDemoTypeName:demoType];
     return cell;
 }
 
@@ -90,6 +78,13 @@
         {
             CustomAnimationIndexViewController *animationVC = [[CustomAnimationIndexViewController alloc] init];
             [self.navigationController pushViewController:animationVC animated:YES];
+        }
+            break;
+            
+        case DemoType_RAC:
+        {
+            RACTestViewController *racTestVC = [[RACTestViewController alloc] init];
+            [self.navigationController pushViewController:racTestVC animated:YES];
         }
             break;
             
