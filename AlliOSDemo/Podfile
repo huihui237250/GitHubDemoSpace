@@ -7,4 +7,5 @@ pod 'AFNetworking'
 pod 'Masonry'
 pod 'SDWebImage'
 pod 'ReactiveObjC'
+pod 'YYText'
 end
