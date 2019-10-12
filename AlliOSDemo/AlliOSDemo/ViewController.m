@@ -10,6 +10,7 @@
 #import "Nutils.h"
 #import "CustomAnimationIndexViewController.h"
 #import "RACTestViewController.h"
+#import "YYTextDemoIndexViewController.h"
 
 @interface ViewController () <UITableViewDataSource,UITableViewDelegate>
 @property (nonatomic,strong) UITableView *tableView;
@@ -20,7 +21,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    self.navigationController.navigationBar.translucent = NO;
     self.title = @"Demo";
     
     self.tableView = [[UITableView alloc] init];
@@ -36,8 +37,10 @@
 - (NSArray *)contentArray{
     if (!_contentArray) {
         _contentArray = @[
-                          @[[NSNumber numberWithInteger:DemoType_Animation], [NSNumber numberWithInteger:DemoType_RAC]]
-                          
+                          @[[NSNumber numberWithInteger:DemoType_Animation],
+                            [NSNumber numberWithInteger:DemoType_RAC],
+                            [NSNumber numberWithInteger:DemoType_YYText]
+                            ]
                           ];
     }
     return _contentArray;
@@ -87,6 +90,14 @@
             [self.navigationController pushViewController:racTestVC animated:YES];
         }
             break;
+            
+        case DemoType_YYText:{
+            YYTextDemoIndexViewController *vc = [[YYTextDemoIndexViewController alloc] init];
+            [self.navigationController pushViewController:vc animated:YES];
+        }
+            break;
+            
+            
             
         default:
             break;

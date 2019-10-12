@@ -21,6 +21,10 @@
             demoTypeStr = @"ReactiveCocoa";
             break;
             
+        case DemoType_YYText:
+            demoTypeStr = @"YYText";
+            break;
+            
         default:
             break;
     }

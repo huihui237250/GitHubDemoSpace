@@ -17,6 +17,7 @@
 		A827CA262137E26B00A743D8 /* AlliOSDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA252137E26B00A743D8 /* AlliOSDemoTests.m */; };
 		A827CA312137E26B00A743D8 /* AlliOSDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA302137E26B00A743D8 /* AlliOSDemoUITests.m */; };
 		A827CA412137EA6000A743D8 /* Nutils.m in Sources */ = {isa = PBXBuildFile; fileRef = A827CA402137EA6000A743D8 /* Nutils.m */; };
+		A8817B2723508C1A002D1F3B /* YYTextDemoIndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8817B2623508C1A002D1F3B /* YYTextDemoIndexViewController.m */; };
 		A8E2D2AF22CF5826009603F2 /* CustomAnimationIndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8E2D2AE22CF5826009603F2 /* CustomAnimationIndexViewController.m */; };
 		A8E2D2B322CF5B36009603F2 /* RACTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8E2D2B222CF5B36009603F2 /* RACTestViewController.m */; };
 /* End PBXBuildFile section */
@@ -59,6 +60,8 @@
 		A827CA322137E26B00A743D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A827CA3F2137EA6000A743D8 /* Nutils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Nutils.h; sourceTree = "<group>"; };
 		A827CA402137EA6000A743D8 /* Nutils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Nutils.m; sourceTree = "<group>"; };
+		A8817B2523508C1A002D1F3B /* YYTextDemoIndexViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYTextDemoIndexViewController.h; sourceTree = "<group>"; };
+		A8817B2623508C1A002D1F3B /* YYTextDemoIndexViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YYTextDemoIndexViewController.m; sourceTree = "<group>"; };
 		A8E2D2AD22CF5826009603F2 /* CustomAnimationIndexViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomAnimationIndexViewController.h; sourceTree = "<group>"; };
 		A8E2D2AE22CF5826009603F2 /* CustomAnimationIndexViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomAnimationIndexViewController.m; sourceTree = "<group>"; };
 		A8E2D2B122CF5B36009603F2 /* RACTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RACTestViewController.h; sourceTree = "<group>"; };
@@ -134,6 +137,7 @@
 		A827CA0B2137E26A00A743D8 /* AlliOSDemo */ = {
 			isa = PBXGroup;
 			children = (
+				A8817B2423508BEA002D1F3B /* YYTextDemo */,
 				A8E2D2B022CF58A4009603F2 /* RAC */,
 				A8E2D2AC22CF5826009603F2 /* CustomAnimation */,
 				A827CA3E2137E9E100A743D8 /* Common */,
@@ -175,6 +179,16 @@
 				A827CA402137EA6000A743D8 /* Nutils.m */,
 			);
 			path = Common;
+			sourceTree = "<group>";
+		};
+		A8817B2423508BEA002D1F3B /* YYTextDemo */ = {
+			isa = PBXGroup;
+			children = (
+				A8817B2523508C1A002D1F3B /* YYTextDemoIndexViewController.h */,
+				A8817B2623508C1A002D1F3B /* YYTextDemoIndexViewController.m */,
+			);
+			name = YYTextDemo;
+			path = ../../YYTextDemo;
 			sourceTree = "<group>";
 		};
 		A8E2D2AC22CF5826009603F2 /* CustomAnimation */ = {
@@ -383,6 +397,7 @@
 				A827CA412137EA6000A743D8 /* Nutils.m in Sources */,
 				A827CA0E2137E26B00A743D8 /* AppDelegate.m in Sources */,
 				A8E2D2B322CF5B36009603F2 /* RACTestViewController.m in Sources */,
+				A8817B2723508C1A002D1F3B /* YYTextDemoIndexViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
