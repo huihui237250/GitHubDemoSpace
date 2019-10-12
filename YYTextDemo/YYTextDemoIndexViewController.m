@@ -51,6 +51,9 @@
     
     NSMutableAttributedString *attributedString2 = [[NSMutableAttributedString alloc] initWithString:[NSString stringWithFormat:@"   %@", commonStr]];
     [attributedString2 setYy_font:font];
+    [attributedString2 yy_setTextHighlightRange:[[NSString stringWithFormat:@"   %@", commonStr] rangeOfString:@"YYText"] color:[UIColor redColor] backgroundColor:[UIColor clearColor] tapAction:^(UIView * _Nonnull containerView, NSAttributedString * _Nonnull text, NSRange range, CGRect rect) {
+        NSLog(@"==");
+    }];
     [attributedString appendAttributedString:attributedString2];
     
     YYLabel *contentLabel2 = [[YYLabel alloc] init];
@@ -63,6 +66,8 @@
         make.left.right.equalTo(contentLabel);
         make.top.equalTo(contentLabel.mas_bottom).offset(20.0f);
     }];
+    
+    
 }
 
 @end
